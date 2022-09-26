@@ -1,3 +1,6 @@
+html{
+    height: 100%;
+}
 body{
 
     margin: 0;
@@ -9,7 +12,7 @@ body{
     justify-content: center;
     background: url(https://cdn.wallpapersafari.com/29/92/9VWQiO.jpg);
     background-repeat: no-repeat;
-    background-size: auto;
+    background-size: 100% 100%;
 }
 h2{
     text-transform: uppercase;
